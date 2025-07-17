@@ -3,7 +3,6 @@
 
 
 ## SSAFY 14th
-## https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003061500
 ## email : lduck2001@naver.com
 
 
