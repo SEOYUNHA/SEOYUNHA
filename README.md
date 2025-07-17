@@ -4,7 +4,7 @@
 
 ###### SSAFY 14th
 ###### 요즘 배우는 것 : Python, AI🤖
-###### email : lduck2001@naver.com
+###### Email : lduck2001@naver.com
 ###### MBTI : ISFJ
 ###### 취미 : 식물키우기🪴, 피아노🎹
 ###### KCI 게재 논문 : Influencing Factors of Relational Self, Self-rationalization, and SNS Photo-sharing Activities on Symbolic Consumption Disposition of Generation Z in Korea: Based on the Theory of Consumer Socialization
