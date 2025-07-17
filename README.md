@@ -3,7 +3,7 @@
 
 
 ###### SSAFY 14th
-###### 요즘 배우는 것 : Python, AI
+###### 요즘 배우는 것 : Python, AI🤖
 ###### email : lduck2001@naver.com
 ###### MBTI : ISFJ
 ###### 취미 : 식물키우기🪴, 피아노🎹
