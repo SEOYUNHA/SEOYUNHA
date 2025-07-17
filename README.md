@@ -3,5 +3,7 @@
 
 
 ##SSAFY 14th
+## email : lduck2001@naver.com
+
 
 
