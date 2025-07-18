@@ -7,5 +7,4 @@
 ###### Email : lduck2001@naver.com
 ###### MBTI : ISFJ
 ###### 취미 : 식물키우기🪴, 피아노🎹
-###### KCI 게재 논문 : Influencing Factors of Relational Self, Self-rationalization, and SNS Photo-sharing Activities on Symbolic Consumption Disposition of Generation Z in Korea: Based on the Theory of Consumer Socialization
 ###### DOI : 10.38083/NIN.28.1.202402.019
